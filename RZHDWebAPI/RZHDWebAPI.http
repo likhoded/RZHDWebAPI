@@ -1,0 +1,6 @@
+@RZHDWebAPI_HostAddress = http://localhost:5196
+
+GET {{RZHDWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
